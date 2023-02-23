@@ -1,0 +1,10 @@
+Ada beberapa bahasa pemrograman yang populer akhir - akhir ini, diantaranya yaitu :
+
+  1. Python
+  2. C#
+  3. C++
+  4. Java Script
+  5. Go
+  6. PHP
+  7. Swift
+  8. Java
